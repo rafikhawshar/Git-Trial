@@ -1,41 +1,42 @@
 # Rafik Hawshar
 Syr Aldenniyeh
-78864233
-rafikhawshar@gmail.com
+Email: rafikhawshar@gmail.com
+Phone: 78864233
+
+![Profile Photo](https://avatars.githubusercontent.com/u/60897241?v=4)
 
 ## Summary
-Im an Junior Full-Stack Developrer
+I am a Junior Full-Stack Developer with a passion for coding and a drive to learn and create.
 
 ## Education
-### Lebanese Uiversty
-- Computer Science Student
+### Lebanese University
+- Pursuing a degree in Computer Science
 
 ## Work Experience
-### Accountent
-- Mobile phone shop
-- Syr Aldenniyeh *
-
+### Accountant
+Mobile phone shop, Syr Aldenniyeh
 
 ## Skills
 - Coding
 - Swimming
-- Freelancer
+- Freelancing
 
 ## Projects
 ### Project Title
 - Created an e-commerce website
-
+- 
+- 
+- 
 
 ## Certifications
-### Lebanese High Deploma
-- 2022
+### Lebanese High Diploma
+- Awarded in 2022
 
 ## Languages
-- Language 1: English
-- Language 2: Arabic
-- Language 3: Turkish
+- English
+- Arabic
+- Turkish
 
 ## Interests
-- Coding: Participating in coding challenges, exploring new programming languages, and building personal projects.
-- Open Source Contributions: Contributing to open source projects to enhance coding skills and collaborate with the community.
-
+- Coding: I enjoy participating in coding challenges, exploring new programming languages, and working on personal projects.
+- Open Source Contributions: Contributing to open source projects allows me to enhance my coding skills and collaborate with a global community.
